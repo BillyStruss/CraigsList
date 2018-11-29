@@ -1,1 +1,1 @@
-This is my Knockoff app of Craig's List as an example project.
+This is my knockoff app of Craig's List as an example project.
